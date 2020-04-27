@@ -4,6 +4,10 @@ div.check
  text-align: center;
 }
 
+table{
+ align: center;
+}
+
 table th, table td{
  border: solid 1.5px black;
 }
