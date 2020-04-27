@@ -1,4 +1,11 @@
 @charset "UTF-8";
+
+div.page
+{
+ display: table;
+ vertical-align: middle;
+}
+
 div.check
 {
  text-align: center;
@@ -15,7 +22,3 @@ table th, table td
  border: solid 1.5px black;
 }
 
-.fleet
-{
- align: right;
-}
