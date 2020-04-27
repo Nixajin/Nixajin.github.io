@@ -11,5 +11,6 @@ table
 
 table th, table td
 {
+ text-align: center;
  border: solid 1.5px black;
 }
