@@ -3,3 +3,7 @@ div.check
 {
  text-align: center;
 }
+
+table{
+ border: solid 1.5px black;
+}
