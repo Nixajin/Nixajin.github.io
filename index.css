@@ -4,10 +4,11 @@ div.check
  text-align: center;
 }
 
-table{
- align: center;
+div.table
+{
+ margin: 0 auto;
 }
-
-table th, table td{
+table th, table td
+{
  border: solid 1.5px black;
 }
