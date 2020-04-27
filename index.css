@@ -15,7 +15,7 @@ table th, table td
  border: solid 1.5px black;
 }
 
-input#checkbox
+.fleet
 {
  align: right;
 }
