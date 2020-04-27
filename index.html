@@ -342,18 +342,6 @@
    <td></td>
   </tr>
  </table>
- <a href="" id="ss" download="fleet_ss.png">スクショをダウンロード</a>
  </div>
- <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
- <script>
-  window.onload = function(){
-   html2canvas(document.body,{
-    onrendered: function(canvas){
-     var imgData = canvas.toDataURL();
-     document.getElementById("ss").href = imgData;
-    }
-   });
-  }
- </script>
 </body>
 </html>
