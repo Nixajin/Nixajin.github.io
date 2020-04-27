@@ -4,10 +4,11 @@ div.check
  text-align: center;
 }
 
-div.table
+table
 {
- margin: 0 auto;
+ border-collapse: collapse;
 }
+
 table th, table td
 {
  border: solid 1.5px black;
