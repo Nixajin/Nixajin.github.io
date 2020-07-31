@@ -29,3 +29,8 @@ table td
  white-space: nowrap;
 }
 
+img.ship
+{
+ width: 327px;
+ height: 450px;
+}
